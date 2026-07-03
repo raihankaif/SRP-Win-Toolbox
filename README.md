@@ -67,13 +67,13 @@ Launch **PowerShell** and execute one of the following commands.
 ### 🌐 Network Tweaker
 
 ```powershell
-irm https://is.gd/srpdns | iex
+comein soom
 ```
 
 ### 🎮 Service Tweaker
 
 ```powershell
-irm https://is.gd/srpsvc | iex
+comein soom
 ```
 
 > **Important:** Only execute remote PowerShell scripts from sources you trust. Administrator permission is required because the toolkit modifies Windows networking and service settings.
