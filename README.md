@@ -5,30 +5,19 @@
 
 > **Supported Platform:** Windows 10 & Windows 11**Built With:** PowerShell + Windows Forms + Windows Batch**License:** GPL-2.0
 
-📋 Table of Contents
---------------------
+## 📋 Table of Contents
 
-*   [Key Features](https://www.google.com/search?q=#-features&authuser=1)
-    
-    *   [Universal File Organizer (Optimal File Manager)](https://www.google.com/search?q=#-universal-file-organizer-optimal-file-manager&authuser=1)
-        
-    *   [SRP Network & Smart DNS Tweaker](https://www.google.com/search?q=#-srp-network--smart-dns-tweaker&authuser=1)
-        
-    *   [SRP Tournament & Gaming Service Tweaker](https://www.google.com/search?q=#-srp-tournament--gaming-service-tweaker&authuser=1)
-        
-    *   [SRP Debloater](https://www.google.com/search?q=#%EF%B8%8F-srp-debloater&authuser=1)
-        
-*   [Safety](https://www.google.com/search?q=#-safety&authuser=1)
-    
-*   [Quick Run & Usage](https://www.google.com/search?q=#-quick-run&authuser=1)
-    
-*   [Repository Structure](https://www.google.com/search?q=#-repository-structure&authuser=1)
-    
-*   [User Interface](https://www.google.com/search?q=#-user-interface&authuser=1)
-    
-*   [Disclaimer](https://www.google.com/search?q=#-disclaimer&authuser=1)
-    
-*   [Developed by](https://www.google.com/search?q=#%EF%B8%8F-developed-by-raihan-kaif&authuser=1)
+- [Key Features](#-features)
+  - [Universal File Organizer (Optimal File Manager)](#-universal-file-organizer-optimal-file-manager)
+  - [SRP Network & Smart DNS Tweaker](#-srp-network--smart-dns-tweaker)
+  - [SRP Tournament & Gaming Service Tweaker](#-srp-tournament--gaming-service-tweaker)
+  - [SRP Debloater](#️-srp-debloater)
+- [Safety](#-safety)
+- [Quick Run & Usage](#-quick-run)
+- [Repository Structure](#-repository-structure)
+- [User Interface](#-user-interface)
+- [Disclaimer](#-disclaimer)
+- [Developed by Raihan kaif (RPG.py)](https://www.instagram.com/raihan_kaif)
     
 
 ✨ Features
